@@ -16,7 +16,6 @@ public class Insertion_logic
     		}
     		arr[j + 1] = key;
     	}
-    	Output_Insertion oi = new Output_Insertion();
-    	oi.display(arr, n);
+    	Output_Insertion.display(arr, n);
     }
 }

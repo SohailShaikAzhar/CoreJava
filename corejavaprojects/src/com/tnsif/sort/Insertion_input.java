@@ -14,7 +14,6 @@ public class Insertion_input
 	    {
 	    	arr[i]= sc.nextInt();
 	    }
-	    Insertion_logic il = new Insertion_logic();
-	    il.insertion_alg(arr, n);
+	    Insertion_logic.insertion_alg(arr, n);
 	}
 }
