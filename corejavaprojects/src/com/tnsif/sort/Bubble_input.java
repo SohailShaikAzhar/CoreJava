@@ -14,7 +14,6 @@ public class Bubble_input
 	    {
 	    	arr[i]= sc.nextInt();
 	    }
-	    Bubble_logic bl = new Bubble_logic();
-	    bl.bubble_alg(arr, n);
+	     Bubble_logic.bubble_alg(arr, n);
 	}
 }

@@ -17,7 +17,6 @@ public class Bubble_logic
     			}
     		}
     	}
-    	Output_bubble ob = new Output_bubble();
-    	ob.display(arr, n);
+    	Output_bubble.display(arr, n);
     }
 }
