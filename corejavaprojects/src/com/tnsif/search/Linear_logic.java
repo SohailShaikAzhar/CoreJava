@@ -8,7 +8,7 @@ public class Linear_logic
     	{
     		if(arr[i] == key)
     		{
-    			Output_linear.display(i, key);
+    			Output_linear.display(i, key); 
     			break;
     		}
     		else
