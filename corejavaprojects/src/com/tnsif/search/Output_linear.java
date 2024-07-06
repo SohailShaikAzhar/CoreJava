@@ -8,6 +8,6 @@ public class Output_linear
     }
     public static void fail(int key)
     {
-    	System.out.println( key + "is not in the data set :(");
+    	System.out.println( key + " is not in the data set :(");
     }
 }
