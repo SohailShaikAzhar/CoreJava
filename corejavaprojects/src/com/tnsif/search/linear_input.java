@@ -9,7 +9,7 @@ public class linear_input
 	    {
 	    	System.out.println("Enter the array size = ");
 	    	int n = sc.nextInt();
-	    	System.out.println("Enter "+n+" elements = ");
+	    	System.out.println("Enter "+n+" elements  ");
 	    	int arr[] = new int[100];
 	    	for(int i = 0 ; i < n ; i++)
 	    	{
