@@ -20,7 +20,7 @@ public class Customerdemo
 		    cd.setName(name);
 		    cd.setCid(rollno);
 		    cd.setCadress(address);
-		    	
+		    System.out.println(cd);
 	    }
 	}
 }
