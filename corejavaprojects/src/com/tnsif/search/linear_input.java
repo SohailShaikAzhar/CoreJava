@@ -15,7 +15,7 @@ public class linear_input
 	    	{
 	    		arr[i]= sc.nextInt();
 	    	}
-	    	System.out.println("Enter the key element = ");
+	    	System.out.println("Enter the key element =  ");
 	    	int key = sc.nextInt();
 	    	Linear_logic.linear_alg(arr, n, key);
 	    }
