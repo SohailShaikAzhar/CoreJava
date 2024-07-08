@@ -7,6 +7,6 @@ public class Father
     
     void drinking()
     {
-    	System.out.println("finally haaa");
+    	System.out.println("yes");
     }
 }
