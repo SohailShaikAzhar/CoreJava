@@ -15,3 +15,4 @@ public class Polymorphism_compiletime
     	System.out.println("with 2 variables a = "+a+" and b = "+b);
     }
 }
+	
