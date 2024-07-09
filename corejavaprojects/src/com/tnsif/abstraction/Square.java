@@ -8,10 +8,12 @@ public class Square extends Shape
 	{
 		side = 2.0f;
 	}
+	
     public Square(float side)
     {
     	this.side = side;
     }
+    
 	@Override
 	void calarea() 
 	{
