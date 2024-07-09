@@ -14,7 +14,7 @@ public class Employee
     
     void display()
     {
-    	System.out.println(eid+ " " + name + " " + company);
+    	System.out.println(eid+ "\t" + name + "\t" + company);
     }
     
 }
