@@ -14,11 +14,4 @@ public class Polymorphism_compiletime
     {
     	System.out.println("with 2 variables a = "+a+" and b = "+b);
     }
-    public static void main(String[] args) 
-    {
-	    Polymorphism_compiletime pc = new Polymorphism_compiletime();
-	    pc.display();
-	    pc.display(10);
-	    pc.display(10, 20);
-	}
 }
