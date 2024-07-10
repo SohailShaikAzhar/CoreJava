@@ -1,11 +1,9 @@
 package Throwsdemo;
 
-import Throwsdemo.IOException.Throwsdemo;
+import java.io.IOException;
 
 public class Demoioexceptions 
 {
     static void display() throws IOException
-    {
-    	throw new IOException();
-	}
+    throw new IOException();
 }
