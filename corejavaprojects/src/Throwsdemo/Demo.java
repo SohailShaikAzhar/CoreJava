@@ -6,10 +6,9 @@ public class Demo
 {
     public static void main(String[] args) 
     {
-    	Demoioexceptions d=new Demoioexceptions();
 		try 
 		{
-			d.display();	
+			Demoioexceptions.display();	
 		}
 	    catch(IOException e) 
 	    {
@@ -17,5 +16,4 @@ public class Demo
 	    }
 	}
 
-}
 }
