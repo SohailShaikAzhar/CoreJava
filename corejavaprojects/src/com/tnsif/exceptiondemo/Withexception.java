@@ -7,7 +7,7 @@ public class Withexception
 	    int d = 0;
 	    try
 	    {
-	    	int a =55/0;
+	    	d = 55/d;
 	    	System.out.println("Hello");
 	    }
 	    catch(ArithmeticException e)

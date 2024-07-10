@@ -1,7 +1,5 @@
 package com.tnsif.exceptiondemo;
 
-import java.util.InputMismatchException;
-
 public class Division 
 {
     public static void division()

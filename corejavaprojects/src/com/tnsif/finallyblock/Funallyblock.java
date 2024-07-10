@@ -7,7 +7,7 @@ public class Funallyblock
 		int a = 10;
     	try
     	{
-    		int b = a/0;
+    		a = a/0;
     		System.out.println("b");
     	}
     	catch(Exception e)

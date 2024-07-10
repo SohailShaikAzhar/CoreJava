@@ -2,7 +2,9 @@ package com.tnsif.exceptiondemo;
 
 public class Nestedtry 
 {
-    public static void check()
+    private static String anotherstring;
+
+	public static void check()
     {
     	String str = "TNS";
     	
@@ -10,7 +12,7 @@ public class Nestedtry
     	
     	System.out.println("string length "+slength);
     	
-    	String anotherstring = null;
+    	anotherstring = null;
     	int y = 6;
     	try
     	{
