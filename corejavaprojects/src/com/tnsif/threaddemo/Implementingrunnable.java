@@ -11,7 +11,7 @@ public class Implementingrunnable implements Runnable
 	}
     
 	@Override
-	public void run() 
+	synchronized public void run()
 	{
 		System.out.println("runnable");
 	}
