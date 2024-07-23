@@ -1,9 +1,38 @@
 package com.tnsif.str;
 
+import java.util.Arrays;
+
 public class Stringexample 
 {
     public static void main(String[] args) 
     {
+    	
+    	int[] array = new int[5];
+    	for(int i= 5; i>0 ; i--)
+    	{
+    		array[5-i] = i;
+    	}
+    	Arrays.fill(array, 1, 4, 8);
+    	for(int i = 0; i< 5; i++)
+    	{
+    		System.out.println(array[i]);
+    	}
+    	
+    	int[] abc = {1, 2, 3, 4};
+    	
+    	System.out.println(abc.length);
+    	
+        String stri = null;
+        System.out.println(stri.valueOf(10));
+    	
+    	int[] arr = new int[5];
+    	System.out.println(arr[3]);
+    	
+    	String country = "India";
+    	System.out.println(country.charAt(2));
+    	
+    	String str = "Hello World";
+    	System.out.println(str.substring(6));
     	
     	String str1="sachin";
 		String str2=str1;
