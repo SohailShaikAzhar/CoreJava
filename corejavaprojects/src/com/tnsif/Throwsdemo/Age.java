@@ -1,4 +1,4 @@
-package Throwsdemo;
+package com.tnsif.Throwsdemo;
 
 public class Age extends Exception
 {

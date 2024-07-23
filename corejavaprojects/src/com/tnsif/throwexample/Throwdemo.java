@@ -1,4 +1,4 @@
-package throwexample;
+package com.tnsif.throwexample;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package SteamAPI;
+package com.tnsif.SteamAPI;
 
 public class Product 
 {

@@ -1,4 +1,4 @@
-package SteamAPI;
+package com.tnsif.SteamAPI;
 
 import java.util.ArrayList;
 import java.util.Iterator;
