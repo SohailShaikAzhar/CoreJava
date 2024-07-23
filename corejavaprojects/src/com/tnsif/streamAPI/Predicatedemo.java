@@ -1,4 +1,4 @@
-package com.tnsif.SteamAPI;
+package com.tnsif.streamAPI;
 
 import java.util.function.Predicate;
 
